@@ -1,8 +1,8 @@
-Olá, seja bem-vindo ! Eu sou a Érica, estudante de programação e outras áreas da tecnologia.
+Olá, seja bem-vindo !  
 
 🧠 Desenvolvedora Front-End Júnior (Html, Css, JavaScript e bootstrap)
 
-  🧐 Interesse em banco de dados, MySQL, Python, design, games e inteligência artificial.
+  🧐 Interesse em banco de dados, desenvolvimento de games e inteligência artificial.
 
 <div align="center">
 
