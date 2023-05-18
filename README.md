@@ -1,4 +1,4 @@
-Olá, seja bem-vindo !  
+Olá, seja bem-vindo ao meu github ! Me chamo Érica Castello Branco, sou do Rio de Janeiro e sou estudante de t.i   
 
 🧠 Desenvolvedora Front-End Júnior (Html, Css, JavaScript e bootstrap)
 
